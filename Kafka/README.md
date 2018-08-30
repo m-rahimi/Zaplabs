@@ -8,7 +8,9 @@ https://github.com/dpkp/kafka-python
 
 kafka
 https://kafka.apache.org/downloads
-
+or
+kafka-docker
+https://hub.docker.com/r/wurstmeister/kafka/
 
 useful links:  
 
