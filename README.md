@@ -1,2 +1,2 @@
 # Zaplabs
-I want to collect all codes that I wrote in zaplabs here
+This repository contains the methods that I learned when I was working at Zaplabs
