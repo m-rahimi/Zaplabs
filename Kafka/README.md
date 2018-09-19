@@ -25,4 +25,4 @@ and
 https://github.com/edenhill/librdkafka/wiki/FAQ#why-is-there-no-sync-produce-interface
 
 # Docker kafka avro  
-docker up --built
+docker-compose up --built
